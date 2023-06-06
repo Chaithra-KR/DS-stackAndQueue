@@ -1,6 +1,6 @@
 ## Stack and Queue ##
 <br>
-** Stack **
+#### Stack ####
 
 ![stack visualization](https://media.geeksforgeeks.org/wp-content/uploads/20230116192305/stack-768.png)
 <br>
@@ -14,6 +14,7 @@
 ###### A stack typically has two main operations: ######
 <br>
 Push: This operation adds an element to the top of the stack.
+ <br>
 Pop: This operation removes the top element from the stack.
 
 ###### addition to these basic operations, stacks usually include other auxiliary operations such as: ######
