@@ -4,6 +4,7 @@
 #### Stack ####
 
 ![stack visualization](https://media.geeksforgeeks.org/wp-content/uploads/20230116192305/stack-768.png)
+Image credit : [Geeksforgeeks](https://www.geeksforgeeks.org/)
 <br>
 * Stack is an abstract data type that follows the Last-In-First-Out (LIFO) principle.It is a sequential collection collection of
   elements.
