@@ -1,5 +1,6 @@
 ## Stack and Queue ##
 <br>
+
 #### Stack ####
 
 ![stack visualization](https://media.geeksforgeeks.org/wp-content/uploads/20230116192305/stack-768.png)
