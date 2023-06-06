@@ -10,13 +10,6 @@
 * A stack is considered as abstract data type(ADT) because it defines a set of operations and properties without specifying the
   underlying implementation details. The term "abstract" refers to the fact that iss focuses on the specific way it is implemented.
 
-###### A stack typically has two main operations: ######
-<br>
-* Stack is an abstract data type that follows the Last-In-First-Out (LIFO) principle.It is a sequential collection collection of
-  elements.
-* LIFO means the last element that inserted into the stack is first element to be removed from the stack.
-* A stack is considered as abstract data type(ADT) because it defines a set of operations and properties without specifying the
-  underlying implementation details. The term "abstract" refers to the fact that iss focuses on the specific way it is implemented.
 
 ###### A stack typically has two main operations: ######
 <br>
@@ -31,11 +24,16 @@ IsEmpty: Checks if the stack is empty or not.
 
 ###### Stack applications ######
 <br>
-* Browsing history tracking <br>
-* Undo operation when typing <br>
-* Stacks are useful in evaluating arithmetic expressions, including infix, postfix, and prefix notations. They can be used to convert <br>
-  expressions from one notation to another, or to evaluate the expressions directly. <br>
-* call stack in js runtime <br>
-* Stacks are used to manage function calls in programming languages. <br>
-* Backtracking algorithms, used in problem-solving and constraint satisfaction, often utilize stacks. The stack stores the current <br>
-  state of the search, allowing for backtracking and exploration of alternative paths when encountering dead ends. 
+
+* Browsing history tracking
+
+* Undo operation when typing 
+
+* Stacks are useful in evaluating arithmetic expressions, including infix, postfix, and prefix notations. They can be used to convert expressions from one notation to another, or to evaluate the expressions directly. 
+
+* call stack in js runtime
+
+* Stacks are used to manage function calls in programming languages.
+
+* Backtracking algorithms, used in problem-solving and constraint satisfaction, often utilize stacks. The stack stores the current state of the search, allowing for backtracking and exploration of alternative paths when encountering dead ends. 
+
