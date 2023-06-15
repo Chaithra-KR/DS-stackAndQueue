@@ -1,4 +1,5 @@
 class Stack {
+
     constructor(){
         this.elements = []
     }
@@ -12,6 +13,9 @@ class Stack {
     push(element){
         this.elements.push(element)
     }
+    // push(element){
+    //     this.elements[this.elements.length]=element
+    // }
 
     //to display the size of stack
     size(){
@@ -30,7 +34,7 @@ class Stack {
 
     //to display the stack elements
     print(){
-        console.log(this.elements.toString());
+        console.log(this.elements);
     }
 }
 

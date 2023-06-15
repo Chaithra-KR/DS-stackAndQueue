@@ -54,6 +54,7 @@ IsEmpty: Checks if the stack is empty or not.
 ![queue visualization](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20221213113312/Queue-Data-Structures.png) <br>
 Image credit : [Geeksforgeeks](https://www.geeksforgeeks.org/)
 <br>
+
 > ### **What is queue ? **
 > A Queue is defined as a linear data structure that is open at both ends and the operations are performed in First In First Out (FIFO) order. Queue follows FIFO principle , that means the first element that inserted into the queue is first element to be removed from the queue.
 
